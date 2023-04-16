@@ -1,0 +1,88 @@
+html{
+scroll-behavior:smooth;
+}
+
+div{    
+    width: 700px;
+    background-color: rgb(240, 243, 246);
+   border: 2px #df80b4  solid;
+   background-image: url("abd.jpg");
+   background-size: 85px,85px;
+   background-repeat: no-repeat;
+   background-position: center left;
+   background-origin: border-box;
+   border-radius: 10px;
+   text-align: right;
+   background-attachment:scroll;
+}
+h1{
+
+    color:darkorange;  
+   
+
+}
+nav{
+   width: 150px;
+   height: 120px;
+   border:3px rgb(0, 0, 0)  ;
+   border-style: inset;
+   text-align: center;
+   border-radius: 1200px;
+   background-color: wheat;
+
+}
+img{
+   
+    height: 150px;
+    width: 200px;
+    border-radius: 75px;
+}
+ th{
+
+    background-color: rgb(200, 45, 45);
+
+ }
+ caption{
+
+    background-color: rgba(255, 251, 0, 0.924);    
+
+ }
+ tbody{
+
+      background-color:lightpink;
+
+ }
+ fieldset{
+
+   background-color:darkgray ;
+
+ }
+input[type="email"]{
+        border: 5px lightcoral double ;
+        border-radius: 10px;
+       background-color:lavender;
+}
+       input[type="text"]{
+         border: 5px lightcoral double ;
+         border-radius: 10px;
+        background-color:lavender;
+       }
+         input[type="tel"]{
+         border: 5px lightcoral double ;
+         border-radius: 10px;
+        background-color:lavender;
+   }
+input[type="submit"]
+{
+   border: 5px solid lightgrey;
+   background-color:darkgrey;
+   border-radius: 10px;
+
+}
+
+ body{
+
+     background-color:cornsilk;
+
+ }
+ 
